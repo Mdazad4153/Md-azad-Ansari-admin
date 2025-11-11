@@ -1,0 +1,5 @@
+{
+  "name": "Portfolio Admin Dashboard",
+  "description": "An admin dashboard to manage and update the content of a personal portfolio website in real-time. Inspired by the Neon console UI and the user's personal site.",
+  "requestFramePermissions": []
+}
